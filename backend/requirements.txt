@@ -1,0 +1,8 @@
+psycopg2
+flask_login
+werkzeug
+flask_sqlalchemy
+sqlalchemy
+openai
+requests
+Flask==2.0.1
